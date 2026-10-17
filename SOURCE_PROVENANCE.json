@@ -1,0 +1,29 @@
+{
+  "version": "1.0.0",
+  "library_packages": [
+    {
+      "file": "ISM310_Week1_GitHub_Practice.zip",
+      "sha256": "9fc957de8a66f53f7d67cb2e07a863a2473f7e6ed00539631c66165e326da6e1"
+    },
+    {
+      "file": "ISM310_Week2_GitHub_Practice.zip",
+      "sha256": "d51bdca9b6689e5d8895ca64ac3539b7455febc650fb6c5c0f8d3dad4adbea99"
+    },
+    {
+      "file": "ISM310_Week3_GitHub_Practice.zip",
+      "sha256": "0821f315e2364bec6babc0eff2e78aa9e114b188f4bef265e7d2f0ad38dfa23c"
+    },
+    {
+      "file": "ISM310_Week4_GitHub_Practice.zip",
+      "sha256": "07ad5979c2803d9d50af71baacc2337d27c8b7a0619d86f3c0744a883a73d564"
+    }
+  ],
+  "changes": [
+    "Added shared 16-day navigation and self-reported progress.",
+    "Preserved original activity prompts and feedback.",
+    "Added query-selected day and automatic device note saving.",
+    "Added bounded research applications and source-scope descriptions.",
+    "Included student workbooks and master decks; excluded instructor guides."
+  ],
+  "authentication": "Not implemented. Static preview is not access-controlled."
+}
