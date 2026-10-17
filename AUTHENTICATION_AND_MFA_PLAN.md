@@ -1,6 +1,6 @@
 # ISM 310 Lynn sign in and MFA implementation plan
 
-Status: design for implementation with Lynn IT. The consolidated v1.0.0 hub is a static preview with no authentication. No tenant, application, authentication policy, Canvas external tool, server session, or MFA enrollment was configured.
+Status: design for implementation with Lynn IT. The consolidated v1.1.0 hub is a static preview with no authentication. No tenant, application, authentication policy, Canvas external tool, server session, or MFA enrollment was configured.
 
 ## Recommended access experience
 Use one institutional sign-in policy regardless of entry route.

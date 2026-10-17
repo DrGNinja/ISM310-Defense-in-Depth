@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "library_packages": [
     {
       "file": "ISM310_Week1_GitHub_Practice.zip",
@@ -23,7 +23,11 @@
     "Preserved original activity prompts and feedback.",
     "Added query-selected day and automatic device note saving.",
     "Added bounded research applications and source-scope descriptions.",
-    "Included student workbooks and master decks; excluded instructor guides."
+    "Included student workbooks and master decks; excluded instructor guides.",
+    "Enforced sequential day/week prerequisites with disabled controls.",
+    "Required response presence, activity feedback interaction, and exit responses before marking completion.",
+    "Added current-frame/route readiness checks and direct weekly-page return to hub.",
+    "Migrated legacy open-navigation completion to a fresh sequence while retaining notes."
   ],
   "authentication": "Not implemented. Static preview is not access-controlled."
 }

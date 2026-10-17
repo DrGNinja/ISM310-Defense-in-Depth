@@ -1,6 +1,6 @@
 # ISM 310 research integration map
 
-Version 1.0.0. These are original classroom applications of reviewed research and official sources. Use a 10–15-minute connection in place of an existing debrief or clinic segment. They add no graded requirement, do not extend class time, and do not replace the Health Network task documents. Thursday Week 4 remains oral presentation day; its synthesis is optional afterward.
+Version 1.1.0. These are original classroom applications of reviewed research and official sources. Use a 10–15-minute connection in place of an existing debrief or clinic segment. They add no graded requirement, do not extend class time, and do not replace the Health Network task documents. Thursday Week 4 remains oral presentation day; its synthesis is optional afterward.
 
 | Week and day | Course lesson | Research connection | Source type |
 |---|---|---|---|
@@ -58,3 +58,5 @@ The prompts ask students to identify facts, assumptions, authority, evidence, li
 EU AI Act exercises use the official Article 50 source and require examination of actor role, intended use, scope, and exceptions. They do not assert that all Lynn course activities or all AI outputs are subject to the same obligation. Vendor-specific watermarking claims require fresh primary-source verification before teaching them as established deployment facts.
 
 The Word and PowerPoint downloads are preserved from the validated weekly packages. New research prompts live in the hub; they have not been silently inserted into those files. The instructor can use the hub during the relevant activity or clinic segment.
+
+Optional research notes remain outside the sequential progression gate. Existing practice and exit-response checks control daily completion.
